@@ -1,0 +1,25 @@
+{
+  "name": "jaras-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriskorinek/jaras-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chriskorinek/jaras-test/issues"
+  },
+  "homepage": "https://github.com/chriskorinek/jaras-test#readme",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
