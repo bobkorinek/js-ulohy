@@ -31,3 +31,8 @@ příkaz `npm test` v kořenové složce projektu.
 4. Století podle roku - `src/centuryFromYear.js`
 5. Kontrola palindromu - `src/checkPalindrome.js`
 6. Největší násobek sousedících čísel - `src/adjacentElementsProduct.js`
+7. Počet přechodů pro po sobě jdoucí seznam - `src/makeArrayConsecutive.js`
+
+## Zdroj úloh
+
+Úlohy jsou především převzaty z [CodeSignal](https://codesignal.com/).
