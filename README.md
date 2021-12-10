@@ -6,7 +6,7 @@ V tomto projektu se nachází seznam úloh pro procvičení programovacího jazy
 
 1. **[Stáhnout NodeJS](https://nodejs.org/en/download/)**
 2. **[Stáhnout Git](https://git-scm.com/downloads)**
-3. Přes Git **naklonovat projekt** na zařízení příkazem `git clone https://github.com/chriskorinek/jaras-test.git`
+3. Přes Git **naklonovat projekt** na zařízení příkazem `git clone https://github.com/chriskorinek/js-ulohy.git`
 4. Ve složce projektu **nainstalovat potřebné knihovny přes příkaz** `npm ci`
 
 ## Doplňky
